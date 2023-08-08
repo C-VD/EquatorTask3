@@ -15,7 +15,7 @@ public class Main {
         }
         else
         {
-            System.out.println("Здорова!");
+            System.out.println("Здарова!");
         }
     }
 }
